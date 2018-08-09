@@ -1,0 +1,19 @@
+{
+	"status":true,
+	"data":{
+		"id":1,
+		"title":"Apple/苹果 iPhone X 全网通4G手机iphone10",
+		"img":"1.jpg",
+		"price":"1054",
+		"kucun":10,
+		"attrs":[
+			{"name":"品牌","val":"Apple"},
+			{"name":"商品名称","val":"AppleiPhone"},
+			{"name":"商品编号","val":"5131287"},
+			{"name":"商品毛重","val":"435.00g"},
+			{"name":"商品产地","val":"中国"},
+			{"name":"系统","val":"苹果（IOS）"}
+		],
+		"desc":"<img src='static/images/product/1/1.jpg' class='center-block'>"
+	}
+}
